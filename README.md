@@ -1,2 +1,2 @@
 # Fraunhofer-Diffraction
-Fraunhofer-Diffraction demo (Jun 11th, 22)
+Fraunhofer diffraction demo (Jun 11th, 22)
